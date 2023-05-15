@@ -1,0 +1,14 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "ioctl.h": "c",
+        "error.h": "c",
+        "video_manager.h": "c",
+        "videodev2.h": "c",
+        "convert_manager.h": "c",
+        "setjmp.h": "c",
+        "config.h": "c",
+        "disp_manager.h": "c",
+        "pic_operation.h": "c"
+    }
+}

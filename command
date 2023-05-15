@@ -1,0 +1,1 @@
+cp video2lcd /home/luo/mnt/nfs/rootfs/home/luo/drivers
